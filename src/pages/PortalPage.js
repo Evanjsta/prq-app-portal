@@ -31,7 +31,7 @@ const applications = [
     id: 'hubspot-data-manager',
     name: 'HubSpot Data Manager',
     description: 'Sync and manage HubSpot data',
-    url: 'https://datahub-app.prqexteriors.com',
+    url: 'https://datahub.prqexteriors.com',
     icon: '🔄',
     color: 'bg-orange-500',
   },
